@@ -38,7 +38,7 @@ Target variable:
 The dataset is strongly imbalanced (≈12% positive class).
 
 
-## 🔎 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Key findings:
 - Age and Vehicle_Age show strong correlation.
