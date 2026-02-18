@@ -114,8 +114,3 @@ No significant improvement.
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Imbalanced-learn
 
 
-## 👤 Author
-
-Your Name  
-Aspiring Data Scientist
-
