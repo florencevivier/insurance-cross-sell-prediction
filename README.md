@@ -103,6 +103,13 @@ No significant improvement.
 
 ## Tech Stack
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Imbalanced-learn
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Statsmodels
+* Imbalanced-learn
 
 
