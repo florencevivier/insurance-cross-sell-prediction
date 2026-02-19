@@ -101,14 +101,6 @@ No significant improvement.
 - Model evaluation beyond accuracy
 
 
-## Future Improvements
-
-- Cross-validation
-- Hyperparameter tuning
-- Tree-based models (Random Forest, XGBoost)
-- Cost-sensitive learning
-
-
 ## Tech Stack
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Imbalanced-learn
